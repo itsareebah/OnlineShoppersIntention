@@ -1,3 +1,5 @@
+COMPLETED
+
 # Machine Learning Project - Classification Problem
 (Kaggle Competetion Link - https://www.kaggle.com/competitions/e-commerce-shoppers-behaviour-understanding/leaderboard)
 
